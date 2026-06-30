@@ -3,6 +3,13 @@ A robot arm that can be controlled wireless on a device like a phone.
 
 I created this as one of my major hardware projects I was going to work on. I've been fascinated about robots from a little age but never really had the ambition to work on a project like this. It was very hard at first but I would say the result was a very rewarding experience. I'm looking foward to doing something similar but more advanced in the future. 
 
+# Finished Build
+These are a few photos of my roboarm that was finally made in real life! (I stopped procrastinating one day)
+
+<img width="3024" height="4032" alt="IMG_6759" src="https://github.com/user-attachments/assets/c18b543e-bc5b-4aac-b0d1-c4e3dc458f86" />
+<img width="3024" height="4032" alt="IMG_6760" src="https://github.com/user-attachments/assets/6d496d8c-f2c8-4005-a662-7744d76cc629" />
+
+
 # CAD Assembly
 Here are a couple views of my roboarm when it's fully assembled!
 

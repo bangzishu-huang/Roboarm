@@ -30,7 +30,7 @@ The casing of roboarm can all be 3D printed but other materials are required.
 
 |Quantity|Part|
 |---|---|
-|4|Servo Motos sg90|
+|4|Servo Motors sg90|
 |2|Ball Bearings|
 |1|ESP 32|
 |4|AA Battery
